@@ -1,0 +1,12 @@
+# Ignore everything by default
+*
+
+# Keep this file and the project docs
+!.gitignore
+!README.md
+!requirements.txt
+!LICENSE
+
+# Keep the application source
+!main.py
+!credentials.json
